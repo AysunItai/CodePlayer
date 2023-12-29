@@ -16,7 +16,7 @@ body {
 .toggleButton {
   float: left;
   border: 1px solid gray;
-  padding: 6px;
+  padding: 7px;
   border-right: none;
   font-size: 90%;
 }
